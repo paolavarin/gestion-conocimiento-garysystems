@@ -1,6 +1,6 @@
 # Gestión de la Base de Conocimiento — GarySystems
 
-Repositorio de ejemplo para ilustrar la gestión de activos de conocimiento y
+Repositorio para ilustrar la gestión de activos de conocimiento y
 el control de configuración alineado con **CMMI** y **MoProSoft**.
 
 Incluye:
