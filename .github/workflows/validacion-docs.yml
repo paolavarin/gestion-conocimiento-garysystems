@@ -1,0 +1,17 @@
+name: Validación documental
+
+on:
+  pull_request:
+    branches: ["main","develop"]
+    paths:
+      - "docs/**"
+      - "diagrams/**"
+
+jobs:
+  check-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar encabezados mínimos
+        run: |
+          echo "Simulación de verificación de metadatos para fines académicos."
