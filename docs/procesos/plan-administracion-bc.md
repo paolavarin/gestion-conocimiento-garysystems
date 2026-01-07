@@ -6,3 +6,8 @@ la Base de Conocimiento de GarySystems, alineada con prácticas de CMMI y MoProS
 - Alimentación mediante entregables validados.
 - Control de configuración de versiones y líneas base.
 - Auditorías periódicas y métricas de desempeño.
+  
+## Roles y responsabilidades
+
+La ejecución y aprobación de actividades se define mediante una matriz RACI,
+en la que participan RCO, GRP, RGR, DEV y PM.
