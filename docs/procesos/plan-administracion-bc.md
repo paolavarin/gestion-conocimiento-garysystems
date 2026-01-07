@@ -6,3 +6,5 @@ la Base de Conocimiento de GarySystems, alineada con prácticas de CMMI y MoProS
 - Alimentación mediante entregables validados.
 - Control de configuración de versiones y líneas base.
 - Auditorías periódicas y métricas de desempeño.
+
+> Línea agregada para prueba de control de configuración.
