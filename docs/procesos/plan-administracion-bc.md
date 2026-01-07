@@ -8,3 +8,10 @@ la Base de Conocimiento de GarySystems, alineada con prácticas de CMMI y MoProS
 - Auditorías periódicas y métricas de desempeño.
 
 > Línea agregada para prueba de control de configuración.
+
+  
+## Roles y responsabilidades
+
+La ejecución y aprobación de actividades se define mediante una matriz RACI,
+en la que participan RCO, GRP, RGR, DEV y PM.
+
